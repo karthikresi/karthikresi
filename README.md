@@ -1,16 +1,276 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=KARTHIK%20G&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20ENGINEER%20%7C%20AI%2FML%20ENGINEER%20%7C%20AI%20AGENT%20DEVELOPER&descAlignY=58&descSize=18"/>
+<img src="./assets/karthik-github-banner.png"
+     alt="Karthik G - AI Engineer"
+     width="100%">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+AI-powered+applications;Exploring+Generative+AI;Building+AI+Agents;Learning+and+building+with+ML;Turning+ideas+into+real+projects" alt="Typing SVG" />
+</div>
 
-<br/><br/>
+---
 
-<img src="https://img.shields.io/badge/EDUCATION-B.Tech%20CSE-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-AI%20%7C%20ML%20%7C%20GenAI-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BASED%20IN-Chennai%2C%20India-4C1D95?style=for-the-badge"/>
+<h2 align="center">👨‍💻 About Me</h2>
 
-<br/><br/>
+```yaml
+name: Karthik G
+education: B.Tech - Computer Science and Engineering
+college: Hindustan Institute of Technology and Science, Chennai
+cgpa: 9.13 / 10.0
+
+role:
+  - AI Engineer
+  - AI/ML Engineer
+  - Generative AI Engineer
+  - AI Agent Developer
+
+focus:
+  - Artificial Intelligence
+  - Machine Learning
+  - Generative AI
+  - NLP
+  - AI Agents
+
+currently_learning:
+  - RAG & LLM Applications
+  - AI Agent Development
+  - LangChain & LangGraph
+  - AI Automation
+
+mindset: Learn → Build → Share → Improve
+```
+
+AI-focused Computer Science undergraduate passionate about building practical and intelligent applications using **Machine Learning, NLP, Generative AI, RAG, and AI Agents**.
+
+I enjoy transforming ideas into **real-world AI-powered solutions** and continuously exploring new technologies in Artificial Intelligence and automation.
+
+---
+
+<h2 align="center">🧠 What I Do</h2>
+
+<div align="center">
+
+| 🤖 Artificial Intelligence | 🧠 Machine Learning | ✨ Generative AI |
+| :---: | :---: | :---: |
+| AI Agents | NLP | RAG & LLMs |
+| Intelligent Applications | Predictive Analytics | Semantic Search |
+
+</div>
+
+---
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+### 💻 Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js" />
+</p>
+
+`Python` `Java` `C` `C++` `SQL` `JavaScript`
+
+### 🤖 AI / Machine Learning
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+`TensorFlow` `Keras` `Scikit-learn` `NLP` `Machine Learning`
+
+### ✨ Generative AI
+
+`Generative AI` `RAG` `LLMs` `AI Agents` `Prompt Engineering`
+
+`LangChain` `LangGraph` `Embeddings` `Vector Databases` `Semantic Search`
+
+### 🌐 Web Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,flask" />
+</p>
+
+`HTML` `CSS` `JavaScript` `Flask`
+
+### ⚙️ Backend & Database
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=spring,mysql,firebase" />
+</p>
+
+`Spring Boot` `MySQL` `Firebase` `REST APIs`
+
+### 📊 Data Science
+
+`Pandas` `NumPy` `Matplotlib` `Seaborn`
+
+### 🔧 Tools & Automation
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+`Git` `GitHub` `VS Code` `Google Colab` `n8n`
+
+---
+
+<h2 align="center">🚀 My Learning Journey</h2>
+
+<div align="center">
+
+```text
+                COMPUTER SCIENCE
+                       ↓
+                  PROGRAMMING
+                       ↓
+              DATA SCIENCE & ML
+                       ↓
+                     NLP
+                       ↓
+              GENERATIVE AI
+                       ↓
+                  RAG & LLMs
+                       ↓
+                  AI AGENTS
+                       ↓
+           REAL-WORLD AI SYSTEMS
+```
+
+</div>
+
+### 🔭 Currently Exploring
+
+- 🤖 AI Agent Development
+- 🧠 Generative AI & LLM Applications
+- 🔎 Retrieval-Augmented Generation (RAG)
+- 🔗 LangChain & LangGraph
+- ⚡ AI Automation with n8n
+- 🧩 Intelligent Application Development
+
+---
+
+<h2 align="center">🌟 Featured Projects</h2>
+
+### 🚨 AI-Powered Smart Emergency Response & Adaptive Community Dispatch System
+
+An AI-powered emergency response platform designed to support intelligent community assistance using **AI/ML, predictive analytics, NLP, and dynamic-radius optimization**.
+
+**Tech Stack**
+
+`Python` `AI/ML` `NLP` `Predictive Analytics`  
+`Dynamic Radius Optimization` `Java` `Spring Boot` `MySQL` `REST APIs`
+
+---
+
+### 📚 AI PDF Knowledge Assistant
+
+A Generative AI-powered knowledge assistant that enables users to interact with documents using **RAG, LLMs, document processing, embeddings, vector databases, and semantic search**.
+
+**Tech Stack**
+
+`Python` `Generative AI` `RAG` `LLMs`  
+`Document Processing` `Embeddings` `Vector Database` `Semantic Search`
+
+---
+
+### 🔐 Secure Vault — Mobile Security System
+
+A mobile security application designed for secure storage of private photos and videos using **AES-256 encryption** and Firebase.
+
+**Tech Stack**
+
+`Kotlin` `Firebase` `AES-256 Encryption`  
+`Secure Photo & Video Storage` `Mobile Development`
+
+---
+
+### 🛒 Fresh-Veg — E-Commerce Grocery App
+
+An e-commerce grocery application focused on **real-time product and order management**.
+
+**Tech Stack**
+
+`Flutter` `Firebase` `E-Commerce`  
+`Real-Time Product Management` `Order Management`
+
+---
+
+### 📖 AI Study Assistant
+
+A Generative AI-based study assistant designed to help users interact with and learn from educational content.
+
+**Tech Stack**
+
+`Generative AI` `Python` `RAG` `LLMs`  
+`PDF Processing` `Vector Database` `Semantic Search`
+
+---
+
+<h2 align="center">💡 Other AI Projects</h2>
+
+<div align="center">
+
+🤖 **Tic-Tac-Toe AI**  
+🖼️ **Image Captioning**  
+🎬 **Movie Recommendation System**  
+👤 **Face Detection**  
+💬 **NLP & Sentiment Analysis**  
+🔢 **CNN Handwritten Digit Classification**
+
+</div>
+
+---
+
+<h2 align="center">🏆 Achievements & Certifications</h2>
+
+- 🎓 **Generative AI for Everyone** — DeepLearning.AI
+- 🐍 **Python for Data Science, AI & Development** — IBM
+- 🤖 **Amazon ML Challenge 2025** — Participant
+- ✈️ **British Airways Data Science Job Simulation** — Forage
+- 📊 **Tata Data Visualization: Empowering Business with Effective Insights** — Forage
+- 💡 **Smart Product Pricing Challenge** — Participant
+- 🚀 **Buildathon / NextWave** — Participant
+
+---
+
+<h2 align="center">📈 My AI Focus</h2>
+
+<div align="center">
+
+```text
+       DATA
+        ↓
+   MACHINE LEARNING
+        ↓
+       NLP
+        ↓
+  GENERATIVE AI
+        ↓
+      RAG + LLM
+        ↓
+    AI AGENTS
+        ↓
+  AUTOMATION
+        ↓
+REAL-WORLD SOLUTIONS
+```
+
+</div>
+
+---
+
+<h2 align="center">🎯 Career Goal</h2>
+
+<div align="center">
+
+### Building intelligent systems that solve real-world problems.
+
+**AI Engineer • AI/ML Engineer • Generative AI Engineer • AI Agent Developer**
+
+</div>
+
+---
+
+<h2 align="center">🤝 Let's Connect</h2>
+
+<p align="center">
 
 <a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -24,203 +284,14 @@
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
-
----
-
-## 👨‍💻 About Me
-
-```yaml
-name: Karthik G
-education: B.Tech - Computer Science and Engineering
-role: AI Engineer | AI/ML Engineer | AI Agent Developer
-
-focus:
-  - Artificial Intelligence
-  - Machine Learning
-  - Generative AI
-  - AI Agents
-
-currently_learning:
-  - RAG & LLM Applications
-  - AI Agent Development
-  - LangChain & LangGraph
-
-mindset: Learn → Build → Share → Improve
-```
-
-AI-focused Computer Science undergraduate with a **9.13 CGPA**, passionate about building practical AI-powered applications.
-I work across **Machine Learning, NLP, Generative AI, RAG, and AI Agents**, while also exploring application development and automation.
-My goal is to turn ideas into useful, real-world intelligent systems.
-
----
-
-## 🛠️ Tech Stack
-
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js"/>
 </p>
 
-### AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-</p>
-
-`Scikit-learn` `Keras` `LangChain` `LangGraph` `NLP` `RAG` `LLMs` `AI Agents` `Prompt Engineering`
-
-### Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,flask"/>
-</p>
-
-### Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,mysql,firebase"/>
-</p>
-
-`Spring Boot` `REST APIs` `MySQL` `Firebase`
-
-### Data Science
-
-`Pandas` `NumPy` `Matplotlib` `Seaborn`
-
-### Tools & Automation
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-</p>
-
-`n8n` `Google Colab`
-
 ---
 
-## 🚀 My Learning Journey
+<div align="center">
 
-```text
-Computer Science
-       ↓
-Programming
-       ↓
-Data Science & Machine Learning
-       ↓
-Natural Language Processing
-       ↓
-Generative AI & LLMs
-       ↓
-RAG Applications
-       ↓
-AI Agents
-       ↓
-Building Real-World AI Systems
-```
+### 💻 Learn → Build → Share → Improve 🚀
 
-### 🔭 Currently Exploring
-
-* 🤖 AI Agent Development
-* 🧠 Generative AI & LLM Applications
-* 🔎 RAG & Semantic Search
-* ⚡ LangChain & LangGraph
-* 🔧 AI Automation with n8n
-
----
-
-## 🌟 Featured Projects
-
-### Project 01 — AI-Powered Smart Emergency Response & Adaptive Community Dispatch System
-
-An AI-powered emergency response platform designed to connect people requiring emergency assistance with nearby community helpers using **dynamic-radius optimization and intelligent dispatch**.
-
-**Tech Stack:**
-`Python` `AI/ML` `NLP` `Predictive Analytics` `Dynamic Radius Optimization` `Java` `Spring Boot` `MySQL` `REST APIs`
-
----
-
-### Project 02 — AI PDF Knowledge Assistant
-
-A Generative AI-powered knowledge assistant that allows users to interact with documents using **RAG, LLMs, document processing, embeddings, vector databases, and semantic search**.
-
-**Tech Stack:**
-`Python` `Generative AI` `RAG` `LLMs` `Document Processing` `Embeddings` `Vector Database` `Semantic Search`
-
----
-
-### Project 03 — Secure Vault
-
-A mobile security application designed for secure storage of private photos and videos using **AES-256 encryption** and Firebase.
-
-**Tech Stack:**
-`Kotlin` `Firebase` `AES-256 Encryption` `Secure Storage` `Mobile Development`
-
----
-
-### Project 04 — Fresh-Veg
-
-An e-commerce grocery application providing real-time product and order management.
-
-**Tech Stack:**
-`Flutter` `Firebase` `E-Commerce` `Real-Time Database`
-
----
-
-### Project 05 — AI Study Assistant
-
-A Generative AI-based study assistant focused on helping users interact with and learn from educational content.
-
-**Tech Stack:**
-`Generative AI` `Python` `RAG` `LLMs` `PDF Processing` `Vector Database` `Semantic Search`
-
----
-
-## 🏆 Achievements & Certifications
-
-* Generative AI for Everyone — DeepLearning.AI
-* Python for Data Science, AI & Development — IBM
-* Amazon ML Challenge 2025 — Participant
-* British Airways Data Science Job Simulation — Forage
-* Tata Data Visualization — Forage
-* Smart Product Pricing Challenge — Participant
-* Buildathon / NextWave — Participant
-
----
-
-## 💡 Other AI Projects
-
-* 🤖 Tic-Tac-Toe AI
-* 🖼️ Image Captioning
-* 🎬 Movie Recommendation System
-* 👤 Face Detection
-* 💬 NLP & Sentiment Analysis
-* 🔢 CNN-based Handwritten Digit Classification
-
----
-
-## 📊 What I Enjoy Building
-
-```text
-AI Applications
-     +
-Machine Learning
-     +
-Generative AI
-     +
-AI Agents
-     +
-Automation
-     ↓
-Real-World Intelligent Solutions
-```
-
----
-
-## 🤝 Let's Connect
-
-I'm interested in **AI Engineering, Machine Learning, Generative AI, AI Agents, and intelligent application development**.
-
-Feel free to explore my repositories and connect with me!
+<img src="https://komarev.com/ghpvc/?username=karthikresi&label=Profile%20Views&color=6D28D9&style=for-the-badge" />
 
 </div>
