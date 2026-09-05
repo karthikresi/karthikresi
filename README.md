@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/karthik-github-banner.png"
+<img src="./karthik-github-banner.png"
      alt="Karthik G - AI Engineer"
      width="100%">
 
