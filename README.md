@@ -55,7 +55,7 @@ I enjoy transforming ideas into **real-world AI-powered solutions** and continuo
 
 </div>
 
----
+--- 
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
